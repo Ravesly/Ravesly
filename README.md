@@ -1,4 +1,4 @@
-# ¡Hola! Mii nombre es Paloma 👋
+# ¡Hola! Mi nombre es Paloma 👋
 
 ## 🚀 Innovation Leader & Data Analyst
 **Transformando la gestión operativa en soluciones basadas en datos.**
